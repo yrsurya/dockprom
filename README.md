@@ -284,6 +284,7 @@ receivers:
             username: 'Prometheus'
             channel: '#<channel>'
             api_url: 'https://hooks.slack.com/services/<webhook-id>'
+            surya
 ```
 
 ![Slack Notifications](https://raw.githubusercontent.com/stefanprodan/dockprom/master/screens/Slack_Notifications.png)
